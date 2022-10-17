@@ -1,0 +1,6 @@
+---
+# tasks file for create_file
+- name: execute
+  dz_module.test_coll.new_module:
+    path: "{{ path }}"
+    content: "{{ content }}"

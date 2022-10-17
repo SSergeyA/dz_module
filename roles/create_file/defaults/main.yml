@@ -1,0 +1,4 @@
+---
+# defaults file for create_file
+path: /home/sergey/3.txt
+content: "test text"
